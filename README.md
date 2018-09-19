@@ -22,10 +22,10 @@
 **3. 示例演示：**
 ------------------------------
 1. 添加人员信息
-![添加](https://www.github.com/BECUZELUVE/vue_manager/raw/master/add.gif)
+![添加](https://www.github.com/BECUZELUVE/vue_managerment/raw/master/add.gif)
 2. 删除人员信息
-![删除](https://www.github.com/BECUZELUVE/vue_manager/raw/master/remove.gif)
+![删除](https://www.github.com/BECUZELUVE/vue_managerment/raw/master/remove.gif)
 3. 编辑人员信息
-![编辑](https://www.github.com/BECUZELUVE/vue_manager/raw/master/edit.gif)
+![编辑](https://www.github.com/BECUZELUVE/vue_managerment/raw/master/edit.gif)
 4. 模糊查询
-![查询](https://www.github.com/BECUZELUVE/vue_manager/raw/master/search.gif)
+![查询](https://www.github.com/BECUZELUVE/vue_managerment/raw/master/search.gif)
