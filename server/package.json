@@ -1,0 +1,20 @@
+{
+  "name": "server_side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "mongoose": "^4.13.14"
+  },
+  "devDependencies": {
+    "mock.js": "^0.2.0",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
